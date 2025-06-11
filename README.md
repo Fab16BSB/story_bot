@@ -11,9 +11,10 @@
 # Story Bot
 
 ## 🌍 Multilingual README Versions
-🇫🇷 French (you are here)
-🇬🇧 English
-🇪🇸 Español
+
+- 🇫🇷 [Français](./README.fr.md)
+- 🇬🇧 [English (you are here)](#)
+- 🇪🇸 [Español](./README.es.md)
 
 ---
 
