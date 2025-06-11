@@ -82,7 +82,7 @@ The model learns to read, understand, and reason about short texts to provide re
 
 Here is the diagram of our model's architecture, illustrating the data flow through its different layers:
 
-![Model Architecture Diagram](result/architecture.png)
+![Model Architecture Diagram](Result/architecture.png)
 
 ---
 
