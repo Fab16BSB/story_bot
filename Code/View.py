@@ -110,7 +110,7 @@ class View:
         # Reduced pady from 10 to 5. Further reduced to 2 for tighter spacing.
         answer_frame.pack(side=BOTTOM, pady=2, padx=20, fill=X)
 
-        answer_label_text = Label(answer_frame, text='answer :', bg='old lace')
+        answer_label_text = Label(answer_frame, text='Answer :', bg='old lace')
         answer_label_text.pack(side=LEFT, padx=5, pady=5)
 
         self.answer = StringVar()

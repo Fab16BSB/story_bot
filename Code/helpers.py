@@ -164,7 +164,7 @@ def affine_answer(question, prediction):
     elif q_lower.startswith("why"):
         reponse = f"Because he/she is {prediction.lower()}"
 
-    elif q_lower.startswith("what"):
+    elif q_lower.startswith("what") and not q_lower.replace(" ?", "").endswith("of"):
         reponse = f"The {prediction.lower()}{question.lower().replace("what", "").replace("?", "")}"
 
     return reponse
