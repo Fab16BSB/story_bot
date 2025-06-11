@@ -81,7 +81,7 @@ El modelo aprende a leer, comprender y razonar sobre textos cortos para responde
 
 Aquí tienes el esquema de la arquitectura de nuestro modelo, ilustrando el flujo de datos a través de las diferentes capas:
 
-![Diagrama de la Arquitectura del modelo](result/architecture.png)
+![Diagrama de la Arquitectura del modelo](Result/architecture.png)
 
 ---
 
