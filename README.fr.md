@@ -86,7 +86,7 @@ Le modèle apprend à lire, comprendre et raisonner sur des textes courts pour r
 
 Voici le schéma de l'architecture de notre modèle, illustrant le flux des données à travers les différentes couches :
 
-![Schéma de l'Architecture du modele](result/architecture.png)
+![Schéma de l'Architecture du modele](Result/architecture.png)
 
 ---
 
